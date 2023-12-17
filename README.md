@@ -22,7 +22,7 @@
 - [📝 License](#license)
 
 
-# 📖 Hello React Front-En <a name="about-project"></a>
+# 📖 Hello React Front-End <a name="about-project"></a>
 
 I created two separate apps (React front-end with a Rails back-end) and connect them to display a random message.
 
