@@ -118,7 +118,8 @@ You can check linter errors by running these commands:
 👤 **Fatuma Hussein**
 
 - GitHub: [@fatmahussein](https://github.com/fatmahussein)
-
+- Twitter: [@FatmaHussein200](https://twitter.com/@FatmaHussein200)
+- LinkedIn: [FatumaHussein](https://www.linkedin.com/in/fatuma-hussein-48149917b)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
