@@ -14,7 +14,6 @@ const Greeting = () => {
   if (greetings.isLoading) {
     return <p>Loading...</p>;
   }
-  console.log(greetings);
 
   return (
     <div>
